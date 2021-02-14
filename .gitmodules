@@ -1,0 +1,30 @@
+[submodule "hellen-one"]
+	path = hellen-one
+	url = https://github.com/andreika-git/hellen-one
+[submodule "hellen121vag"]
+	path = hellen121vag
+	url = https://github.com/rusefi/hellen121vag
+[submodule "hellen81"]
+	path = hellen81
+	url = https://github.com/andreika-git/hellen81
+[submodule "commerial_products/hellen64_miata99"]
+	path = commerial_products/hellen64_miata99
+	url = https://github.com/rusefi/hellen64_miata99
+[submodule "commerial_products/hellen55bmw"]
+	path = commerial_products/hellen55bmw
+	url = https://github.com/rusefi/hellen55bmw
+[submodule "commerial_products/hellen134bmw"]
+	path = commerial_products/hellen134bmw
+	url = https://github.com/rusefi/hellen134bmw
+[submodule "commerial_products/hellen88bmw"]
+	path = commerial_products/hellen88bmw
+	url = https://github.com/rusefi/hellen88bmw
+[submodule "commerial_products/hellen128mercedes"]
+	path = commerial_products/hellen128mercedes
+	url = https://github.com/rusefi/hellen128mercedes
+[submodule "commerial_products/hellen121nissan"]
+	path = commerial_products/hellen121nissan
+	url = https://github.com/rusefi/hellen121nissan
+[submodule "commerial_products/hellen72"]
+	path = commerial_products/hellen72
+	url = https://github.com/rusefi/hellen72/
