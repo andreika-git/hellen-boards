@@ -28,10 +28,13 @@ Dave B.  5:52 PM
 2020 RAV4 Hybird, 2011 Camry Hybrid, 2005 F350 Diesel, 1992 Skyline in my fleet
 
 Ed
-G35? Honda Element?
+2007 M35
+Honda Element?
 
 Oleg
 Mazda 3 speed manual?
 
+junkyard bill  8:55 PM
+saab 9000 1997... dodge 1500 1996.... moto guzzi 850T3 1975... and... VEEEEE12
 
 
