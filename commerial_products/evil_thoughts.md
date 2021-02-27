@@ -29,7 +29,7 @@ Dave B.  5:52 PM
 
 Ed
 2007 M35
-Honda Element?
+2003 Honda Element
 
 Oleg
 Mazda 3 speed manual?
