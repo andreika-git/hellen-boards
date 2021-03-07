@@ -16,6 +16,7 @@ ford taurus police something
 
 Matthew Kennedy
 glorious 2010 nissan versa
+gen3 LS (97-05 ish) with cut harness
 
 dbh97
 2004 Toyota 4Runner
