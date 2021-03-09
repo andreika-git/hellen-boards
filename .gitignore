@@ -1,5 +1,5 @@
 copy_72.sh
 copy_81.sh
 copy_all_modules_from_AD.sh
-copy_all_modules_from_Kicad.sh
+copy_all_module_footprints_from_Kicad.sh
 create_hellen72.sh
