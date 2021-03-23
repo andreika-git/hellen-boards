@@ -28,3 +28,6 @@
 [submodule "commerial_products/hellen72"]
 	path = commerial_products/hellen72
 	url = https://github.com/rusefi/hellen72/
+[submodule "commerial_products/hellen64_miataNA6_94"]
+	path = commerial_products/hellen64_miataNA6_94
+	url = https://github.com/rusefi/hellen64_miataNA6_94/

@@ -1,4 +1,4 @@
 #!/bin/bash
 
 cd hellen-one
-sh ./bin/create_board.sh ".." "81" "a" "R309=;R311=;R103=;R105=;U103=AP2331TDSA-7,SOT-23,C183303;U480=AP2331TDSA-7,SOT-23,C183303;U105=STM32H743IIT6,LQFP176,C89597"
+sh ./bin/create_board.sh "../hellen81" "81" "a" "bom_replace_81-a.csv"
