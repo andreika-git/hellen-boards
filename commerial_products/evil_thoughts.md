@@ -3,6 +3,9 @@ What is your daily/wife's/mother's vehicle so that a 10 minute test would be pos
 Zach Hoo*
 2007 rx8
 
+Jesse H
+96 civic ex
+
 kon
 e30
 e46 m3
