@@ -1,4 +1,4 @@
 #!/bin/bash
 
-cd hellen-one
-sh ./bin/create_board.sh "../commerial_products/hellen72" "72" "d" "bom_replace_72-d.csv"
+cd commerial_products/hellen72
+./step3_create_hellen72.sh
