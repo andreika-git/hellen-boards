@@ -1,4 +1,4 @@
 #!/bin/bash
 
 cd hellen121vag
-./copy_121vag.sh
+./step2_copy_121vag.sh

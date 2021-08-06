@@ -1,4 +1,4 @@
 #!/bin/bash
 
 cd hellen121vag
-./create_hellen121vag.sh
+./step3_create_hellen121vag.sh
