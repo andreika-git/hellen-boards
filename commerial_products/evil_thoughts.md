@@ -1,12 +1,21 @@
 What is your daily/wife's/mother's vehicle so that a 10 minute test would be possible?
 
+Joshua Su*** CT 1987 300ZX
+
+Zach Hoo*
+2007 rx8
+
+Jesse H
+96 civic ex
+1st gen Merc ML v8 probably 134 pin?
+
 kon
 e30
 e46 m3
 
 Stefan
 Kia stinger
-mazda suv something
+mazda cx5
 nb2
 e36
 
