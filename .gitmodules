@@ -8,26 +8,32 @@
 	path = hellen81
 	url = https://github.com/andreika-git/hellen81
 [submodule "commerial_products/hellen64_miata99"]
-	path = commerial_products/hellen64_miata99
+	path = commercial_products/hellen64_NB1
 	url = https://github.com/rusefi/hellen64_miata99
 [submodule "commerial_products/hellen55bmw"]
-	path = commerial_products/hellen55bmw
+	path = commercial_products/hellen55bmw
 	url = https://github.com/rusefi/hellen55bmw
 [submodule "commerial_products/hellen134bmw"]
-	path = commerial_products/hellen134bmw
+	path = commercial_products/hellen134bmw
 	url = https://github.com/rusefi/hellen134bmw
 [submodule "commerial_products/hellen88bmw"]
-	path = commerial_products/hellen88bmw
+	path = commercial_products/hellen88bmw
 	url = https://github.com/rusefi/hellen88bmw
 [submodule "commerial_products/hellen128mercedes"]
-	path = commerial_products/hellen128mercedes
+	path = commercial_products/hellen128mercedes
 	url = https://github.com/rusefi/hellen128mercedes
 [submodule "commerial_products/hellen121nissan"]
-	path = commerial_products/hellen121nissan
+	path = commercial_products/hellen121nissan
 	url = https://github.com/rusefi/hellen121nissan
 [submodule "commerial_products/hellen72"]
-	path = commerial_products/hellen72
+	path = commercial_products/hellen72
 	url = https://github.com/rusefi/hellen72/
 [submodule "commerial_products/hellen64_miataNA6_94"]
-	path = commerial_products/hellen64_miataNA6_94
+	path = commercial_products/hellen64_miataNA6_94
 	url = https://github.com/rusefi/hellen64_miataNA6_94/
+[submodule "commerial_products/hellen154hyundai"]
+	path = commercial_products/hellen154hyundai
+	url = https://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@github.com/rusefi/hellen154hyundai
+[submodule "commerial_products/hellen154gdi_vag"]
+	path = commercial_products/hellen154gdi_vag
+	url = https://github.com/rusefi/hellen154vag-9.1
