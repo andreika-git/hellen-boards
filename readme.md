@@ -22,5 +22,5 @@ Or, under Windows, you'll need to install a special environment like MSYS2 (http
 - ./hellen81
 	* Ultracompact and cheap yet full-functional 8-Cylinder ECU board:
 	  https://rusefi.com/s/hellen81/
-- ./commerial_products
+- ./commercial_products
 	* a list of ready-to-use commercial PnP boards available at [rusEFI](https://github.com/rusefi/rusefi)!
