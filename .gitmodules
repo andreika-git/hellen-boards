@@ -33,7 +33,7 @@
 	url = https://github.com/rusefi/hellen64_miataNA6_94/
 [submodule "commerial_products/hellen154hyundai"]
 	path = commercial_products/hellen154hyundai
-	url = https://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@github.com/rusefi/hellen154hyundai
+	url = https://github.com/rusefi/hellen154hyundai
 [submodule "commerial_products/hellen154gdi_vag"]
 	path = commercial_products/hellen154gdi_vag
 	url = https://github.com/rusefi/hellen154vag-9.1
