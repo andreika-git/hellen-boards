@@ -61,3 +61,6 @@ Mitsubishi eclipse 95
 Steve FL
 2009 nissan 37
 99 z28
+
+
+See also https://github.com/rusefi/rusefi/wiki/Proteus
