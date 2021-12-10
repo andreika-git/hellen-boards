@@ -7,9 +7,9 @@
 [submodule "hellen81"]
 	path = hellen81
 	url = https://github.com/andreika-git/hellen81
-[submodule "commerial_products/hellen64_miata99"]
+[submodule "commerial_products/hellen_NB1"]
 	path = commercial_products/hellen64_NB1
-	url = https://github.com/rusefi/hellen64_miata99
+	url = https://github.com/rusefi/hellen-NB1
 [submodule "commerial_products/hellen55bmw"]
 	path = commercial_products/hellen55bmw
 	url = https://github.com/rusefi/hellen55bmw
@@ -27,8 +27,8 @@
 	url = https://github.com/rusefi/hellen121nissan
 [submodule "commerial_products/hellen72"]
 	path = commercial_products/hellen72
-	url = https://github.com/rusefi/hellen72/
-[submodule "commerial_products/hellen64_miataNA6_94"]
+	url = https://github.com/rusefi/hellen-NB2/
+[submodule "commerial_products/hellen_NA6_94"]
 	path = commercial_products/hellen_NA6_94
 	url = https://github.com/rusefi/hellen64_miataNA6_94/
 [submodule "commerial_products/hellen154hyundai"]
