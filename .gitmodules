@@ -29,7 +29,7 @@
 	path = commercial_products/hellen72
 	url = https://github.com/rusefi/hellen72/
 [submodule "commerial_products/hellen64_miataNA6_94"]
-	path = commercial_products/hellen64_miataNA6_94
+	path = commercial_products/hellen_NA6_94
 	url = https://github.com/rusefi/hellen64_miataNA6_94/
 [submodule "commerial_products/hellen154hyundai"]
 	path = commercial_products/hellen154hyundai
@@ -37,3 +37,9 @@
 [submodule "commerial_products/hellen154gdi_vag"]
 	path = commercial_products/hellen154gdi_vag
 	url = https://github.com/rusefi/hellen154vag-9.1
+[submodule "commercial_products/hellen125honda"]
+	path = commercial_products/hellen125honda
+	url = https://github.com/rusefi/hellen125honda
+[submodule "commercial_products/hellen64_NA8_96"]
+	path = commercial_products/hellen_NA8_96
+	url = https://github.com/rusefi/hellen-NA8-96
