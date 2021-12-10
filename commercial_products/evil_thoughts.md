@@ -50,3 +50,17 @@ saab 9000 1997... dodge 1500 1996.... moto guzzi 850T3 1975... and... VEEEEE12
 
 2011 Nissan Xterra
 https://docs.google.com/spreadsheets/d/1mhGITGrEsXB65xr1dcxLFLKIrD0TVu754hoxm6RZHCA
+
+
+Norman
+95 3000gt
+Tercel 97
+Mitsubishi eclipse 95
+
+
+Steve FL
+2009 nissan 37
+99 z28
+
+
+See also https://github.com/rusefi/rusefi/wiki/Proteus
